@@ -1,0 +1,43 @@
+#pane{
+
+  -fx-background-image: url("background.PNG");
+  -fx-background-size: 800px
+
+}
+
+#user{
+
+  -fx-background-radius: 1000px;
+
+}
+
+#password{
+
+  -fx-background-radius: 1000px;
+
+}
+
+#btnentrar{
+
+  -fx-background-radius: 1000px;
+  -fx-background-color: rgb(229, 95, 49);
+
+}
+
+#btncancel{
+
+  -fx-background-radius: 1000px;
+  -fx-background-color: rgb(108, 117, 125);
+
+}
+
+#btnentrar:hover{
+
+  -fx-background-color: rgb(255, 193, 7);
+
+}
+#btncancel:hover{
+
+ -fx-background-color: rgb(33, 37, 41);
+
+}
